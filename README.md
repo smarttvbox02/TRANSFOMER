@@ -1,3 +1,59 @@
+#EXTINF:-1 group-title="** VIP MOVIES **", MommyGotBoobs - Stacey Saran - Mommy\s Little Helper XXX
+http://vod3.freeddns.org:80/195181164146/mgb_stacey_saran_dd121517_480p_1500.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", MommyGotBoobs Brandi Love - Mounted By My Mother-In-Law (17.05.2018) XXX
+http://vod3.freeddns.org:80/195181164146/MommyGotBoobsBrandiLove.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", MommyGotBoobs Lexi Luna - Stepmom Gets Soaked (05.06.2018) XXX
+http://vod3.freeddns.org:80/195181164146/MommyGotBoobsLexiLuna.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", Moms In Control 9 [2018] XXX
+http://vod3.freeddns.org:80/195181164146/xxx/MomsInControl-9-s01e06.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", MomXXX Katrina Moreno - Lad cums on kinky MILF s big tits (01.03.2018) XXX
+http://vod3.freeddns.org:80/195181164146/MomXXXKatrinaMoreno.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", MonsterCurves - Rose Monroe - Choose Your Poison 2 XXX
+http://vod3.freeddns.org:80/195181173146/MonsterCurvesRoseMonroe.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", MonstersOfCock - Kalina Ryu - Kalina Ryu Takes on a Monster Cock XXX
+http://vod3.freeddns.org:80/195181164146/MonstersOfCockKalinaRyu.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", MonstersOfCock Valentina Nappi Craves Anal BBC 06.05.2018 XXX
+http://vod3.freeddns.org:80/217182164138/MonstersOfCockValentinaNappi.mp4
+#EXTINF:-1 group-title="** VIP MOVIES **", Mr. Anal 24 (2018) XXX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍26
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍27
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍28
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍29
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍30
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍31
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍32
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍33
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍34
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍35
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍36
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍37
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍38
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍39
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍40
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍41
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍42
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍43
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
+
+
+http://vod3.freeddns.org:80/195181164146/MrAnal24-s01e05.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",FSDSS-070
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/22/3073de3b/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",FSDSS-0
