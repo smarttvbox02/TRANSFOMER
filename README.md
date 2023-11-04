@@ -51,6 +51,31 @@ https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",韓國太妍43
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
+http://ovhv39.twincdn.com/videos/prime/00/01/84/44.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Sexy teen is fucked
+http://ovhv39.twincdn.com/videos/9/9077/9077_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Strayed teenie
+http://ovhv39.twincdn.com/videos/4/4172/4172_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teen Amirah Adara (Woodman)
+http://ovhv39.twincdn.com/videos/17/17964/17964_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teen enjoys a rimfuck
+http://ovhv39.twincdn.com/videos/prime/00/01/85/34.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teen offers her asshole
+Teen sucks a cock,http://ovhv39.twincdn.com/videos/5/5026/5026_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teenage asshole
+http://ovhv39.twincdn.com/videos/5/5921/5921_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teengirl ubt Blowjob
+http://ovhv39.twincdn.com/videos/8/8870/8870_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teens anal threesome
+http://ovhv39.twincdn.com/videos/8/8502/8502_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teen's ass is fucked
+http://ovhv39.twincdn.com/videos/6/6911/6911_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teen's asshole
+http://ovhv39.twincdn.com/videos/5/5907/5907_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Teen's butthole
+http://ovhv39.twincdn.com/videos/5/5923/5923_720p.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANG-DUL",Two beauties
+http://ovhv40.twincdn.com/videos/prime/00/01/94/69.mp4
 
 
 http://vod3.freeddns.org:80/195181164146/MrAnal24-s01e05.mp4
