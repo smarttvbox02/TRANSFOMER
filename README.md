@@ -1,5 +1,3 @@
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
@@ -505,4 +503,4 @@ https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8|referer=https
 #EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-7.png",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|referer=https://oneplayer.online/
-
+=====================
