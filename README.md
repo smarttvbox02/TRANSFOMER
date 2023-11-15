@@ -1,23 +1,20 @@
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="TIMNAS U 17",Server 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
+https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50
+https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
 http://103.166.27.2:8112/play/a015
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="TIMNAS U 17",Server 2
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 2
 https://stream.ayas.ir/hls2/bein5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="TIMNAS U 17",Server 3
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="FIFA WORLD CUP U17",Server 3
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="TIMNAS U 17",Server 4
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="TIMNAS U 17" , Server 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=71eb31f1fe244307ac59e1aa5991f03c:a9cadb07bc047426fa0585b2115b924b
-https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="TIMNAS U 17" , Server 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=858955fcb28f4ae3bd5b19a318b29ff4:66e263f4b9264e6d145d6c8ce0cae6bf
-https://d2h3grlsj8f9qu.cloudfront.net/out/v1/df357e7da00b4f528989176850153919/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="TIMNAS U 17" , Server 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",wc u17
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8 
 ======================================================================================================================================
@@ -116,82 +113,7 @@ http://humiptv.live:8080/live/56565656/56565656/146.ts
 http://humiptv.live:8080/live/56565656/56565656/29469.ts
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 5 HD
 http://humiptv.live:8080/live/56565656/56565656/176.ts
-
-#EXTINF:-1 tvg-id="IMC" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="SPORTS",RTM Sports
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/146
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
-#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/420
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola 2 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 3 (Live Only)" tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="SPORTS",Arena Bola 3 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 4 (Live Only)" tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="SPORTS",Arena Bola 4 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 1" tvg-logo="https://i.ibb.co/4mPVnHy/1684377315197.png" group-title="SPORTS",NOW Sport 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1077
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 2" tvg-logo="https://i.ibb.co/711T35R/1684377390405.png" group-title="SPORTS",NOW Sport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1078
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 3" tvg-logo="https://i.ibb.co/BzXYn27/1684377425609.png" group-title="SPORTS",NOW Sport 3
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1079
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 4" tvg-logo="https://i.ibb.co/rH7KGqv/1684377457357.png" group-title="SPORTS",NOW Sport 4
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1080
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 5" tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="SPORTS",NOW Sport 5
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1081
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",ASSP_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/148
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/149
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_B" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_B
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/571
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_A" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_B
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/572
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_A" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/249
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_B
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/573
-#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="SPORTS",beIN Sports 1 ID
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155
-#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="SPORTS",beIN Sports 2 ID
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport (MY)" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORTS",BeIN Sport (MY)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/158
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="SPORTS",BT Sport 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/550
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="SPORTS",BT Sport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/549
-#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORTS",Champions 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/157
-#EXTINF:-1 tvg-id="UseeSports" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/241
-#EXTINF:-1 tvg-id="UseeSports2" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/242
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV (MY)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (MY)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV (IDN)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (IDN)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
-#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",Spotv 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/328
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/953
-#EXTINF:-1 tvg-id="Rugby" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="SPORTS",Rugby TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/337
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="SPORTS",NBA TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/160
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Dazn 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
-
+==========================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Eleven 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -377,6 +299,88 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
 
+
+
+
+===============================================================================================================================================================================
+#EXTINF:-1 tvg-id="IMC" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="SPORTS",RTM Sports
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/146
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
+#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/420
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola 2 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 3 (Live Only)" tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="SPORTS",Arena Bola 3 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 4 (Live Only)" tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="SPORTS",Arena Bola 4 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 1" tvg-logo="https://i.ibb.co/4mPVnHy/1684377315197.png" group-title="SPORTS",NOW Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1077
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 2" tvg-logo="https://i.ibb.co/711T35R/1684377390405.png" group-title="SPORTS",NOW Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1078
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 3" tvg-logo="https://i.ibb.co/BzXYn27/1684377425609.png" group-title="SPORTS",NOW Sport 3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1079
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 4" tvg-logo="https://i.ibb.co/rH7KGqv/1684377457357.png" group-title="SPORTS",NOW Sport 4
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1080
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 5" tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="SPORTS",NOW Sport 5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1081
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",ASSP_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/148
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/149
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_B" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/571
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_A" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/572
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_A" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/249
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/573
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="SPORTS",beIN Sports 1 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="SPORTS",beIN Sports 2 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport (MY)" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORTS",BeIN Sport (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/158
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="SPORTS",BT Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/550
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="SPORTS",BT Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/549
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORTS",Champions 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/157
+#EXTINF:-1 tvg-id="UseeSports" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/241
+#EXTINF:-1 tvg-id="UseeSports2" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/242
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV (MY)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (IDN)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (IDN)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
+#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",Spotv 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/328
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/953
+#EXTINF:-1 tvg-id="Rugby" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="SPORTS",Rugby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/337
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="SPORTS",NBA TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/160
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+============================================================================================================================================================================
+
+
+==============================================================================================================================================================================
 
 #EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 1
 https://edge.taghtia.com/sa/9.m3u8
