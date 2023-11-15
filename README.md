@@ -686,8 +686,4 @@ https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://d1ahy1km7unmk9.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-id="RockExtreme.sg" tvg-logo="https://static.mncnow.id/images/channel/92a2dc53/af07.png" group-title="Movies",Rock Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
