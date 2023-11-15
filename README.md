@@ -16,13 +16,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://103.30.87.238:443/wadmanet/norlec212/516
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩", GTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -77,6 +75,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://nonton.site:8443/live/ekos/7483/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia
 http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
+https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50
+https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
+http://103.166.27.2:8112/play/a015
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 2
+https://stream.ayas.ir/hls2/bein5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="FIFA WORLD CUP U17",Server 3
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 ===============================================================================================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="🚩LIVE EVENT🚩",PRO LIGA
 http://103.166.27.2:8112/play/a017
