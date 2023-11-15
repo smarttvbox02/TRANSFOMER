@@ -113,7 +113,7 @@ https://neptv.x10.mx/ytlive.php?v=4et-mMzC350
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",INDONESIA VS ECUADOR
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",BRI LIGA 2
 https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 http://103.166.27.2:8112/play/a016/index.m3u8
