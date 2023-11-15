@@ -17,20 +17,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",WC
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8 
 =================================================================================================================================
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS 7
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
+
+
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -45,13 +35,15 @@ http://103.30.87.238:443/wadmanet/norlec212/858
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
 http://103.30.87.238:443/wadmanet/norlec212/516
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
-http://103.30.87.238:443/wadmanet/norlec212/5628
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -63,14 +55,22 @@ http://103.30.87.238:443/wadmanet/norlec212/1419
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 http://103.30.87.238:443/wadmanet/norlec212/907
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://103.30.87.238:443/wadmanet/norlec212/890
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS 7
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgr1VQP/trans.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
