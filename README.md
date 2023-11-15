@@ -1,3 +1,6 @@
+====================================SILAHKAN DIPAKAI JGN DI SHARE DI SOSMED===========================================================================
+
+
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV 1
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV 2
