@@ -103,9 +103,9 @@ https://sonar.ytlive.workers.dev/stream/4et-mMzC350/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="🚩LIVE EVENT🚩",VOLY KOREA 2
 https://neptv.x10.mx/ytlive.php?v=4et-mMzC350
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",BRI LIGA 1
-https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298549
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 2
-http://103.166.27.2:8112/play/a016/index.m3u8
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
