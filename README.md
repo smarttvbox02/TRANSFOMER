@@ -1,4 +1,4 @@
-====================================SILAHKAN DIPAKAI JGN DI SHARE DI SOSMED=================================================
++====================================SILAHKAN DIPAKAI JGN DI SHARE DI SOSMED=================================================
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV 
