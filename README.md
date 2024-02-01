@@ -23,19 +23,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
@@ -45,36 +42,12 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
-http://103.30.87.238:443/wadmanet/norlec212/858
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
-http://103.30.87.238:443/wadmanet/norlec212/516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
-http://103.30.87.238:443/wadmanet/norlec212/5628
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-inews.rctiplus.id/inews-sdi.mpd
-
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
@@ -104,12 +77,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
-http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
-https://nonton.site:8443/live/ekos/7483/36.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/stream3/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 ==========================================================================================================================
@@ -132,7 +104,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
  
-
+====================================================================================================================================================================
 
 
 
@@ -222,28 +194,26 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", LA LIGA
-
+http://601593269358165385.ofd112.xyz:80/play/vi920711/8hs4CbBQ8r7/165385.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", LA LIGA
-
+http://601593269358165392.ofd112.xyz:80/play/vi920711/8hs4CbBQ8r7/165392.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", LA LIGA
-
+http://601593269358165393.ofd112.xyz:80/play/vi920711/8hs4CbBQ8r7/165393.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", LA LIGA
-
+http://601593269358165398.ofd112.xyz:80/play/vi920711/8hs4CbBQ8r7/165398.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", LA LIGA
-
+http://601593269358165400.ofd112.xyz:80/play/vi920711/8hs4CbBQ8r7/165400.ts
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", LIGA ITALY
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
+http://355194891461760020.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/760020.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", LIGA ITALY
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" , LIGA ITALY
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", LIGA ITALY
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", LIGA ITALY
@@ -251,31 +221,28 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", LIGA ITALY
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" ,LIGA ITALY
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", BUNDES LIGA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", BUNDES LIGA
-
+http://355194891461735283.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/735283.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", BUNDES LIGA
-
+http://355194891461645810.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/645810.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", BUNDES LIGA
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", BUNDES LIGA
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", LIGA PRANCIS
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+http://355194891461766657.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/766657.ts
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", LIGA PRANCIS
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
-
+http://355194891461766658.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/766658.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", LIGA PRANCIS
-
+http://355194891461766659.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/766659.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", LIGA PRANCIS
-
+http://355194891461766660.ofd0126.xyz:80/play/fe117225/EVApMc@eWB/766660.ts
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", LIGA PRANCIS
 
 
