@@ -85,10 +85,70 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 ==========================================================================================================================
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="📺 Movies📺 ",BOO 
+https://link.zozotv.xyz:443/rozila969/abc12345/408
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="📺 Movies📺 ",HBO
+https://link.zozotv.xyz:443/rozila969/abc12345/96
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="📺 Movies📺 ",HBO (ID)
+https://link.zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="📺 Movies📺 ",HBO Hits
+https://link.zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="📺 Movies📺 ",HBO Family
+https://link.zozotv.xyz:443/rozila969/abc12345/98
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="📺 Movies📺 ",HBO Signature
+https://link.zozotv.xyz:443/rozila969/abc12345/99
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="📺 Movies📺 ",Paramount
+https://link.zozotv.xyz:443/rozila969/abc12345/397
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="📺 Movies📺 ",ShowCase Movies
+https://link.zozotv.xyz:443/rozila969/abc12345/385
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="📺 Movies📺 ",Rock Action
+https://link.zozotv.xyz:443/rozila969/abc12345/89
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="📺 Movies📺 ",Cinemax
+https://link.zozotv.xyz:443/rozila969/abc12345/107
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="📺 Movies📺 ",My Cinema
+https://link.zozotv.xyz:443/rozila969/abc12345/394
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="📺 Movies📺 ",My Cinema Asia
+https://link.zozotv.xyz:443/rozila969/abc12345/395
+#EXTINF:-1 tvg-id="My Family" tvg-name="My Family" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="📺 Movies📺 ",My Family
+https://link.zozotv.xyz:443/rozila969/abc12345/396
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="📺 Movies📺 ",Galaxy
+https://link.zozotv.xyz:443/rozila969/abc12345/108
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="📺 Movies📺 ",Galaxy Premium
+https://link.zozotv.xyz:443/rozila969/abc12345/109
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="📺 Movies📺 ",CinemaWorld
+https://link.zozotv.xyz:443/rozila969/abc12345/111
+#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="📺 Movies📺 ",&Prive HD
+https://link.zozotv.xyz:443/rozila969/abc12345/105
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="📺 Movies📺 ",&Flix HD
+https://link.zozotv.xyz:443/rozila969/abc12345/104
+#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="📺 Movies📺 ",Sony PIX
+https://link.zozotv.xyz:443/rozila969/abc12345/298
 
-
-
-
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="📺 Movies📺 ",Star Movies Select
+https://link.zozotv.xyz:443/rozila969/abc12345/300
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="📺 Movies📺 ",HITS Movies
+https://link.zozotv.xyz:443/rozila969/abc12345/110
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="📺 Movies📺 ",Thrill
+https://link.zozotv.xyz:443/rozila969/abc12345/112
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="📺 Movies📺 ",IMC
+https://link.zozotv.xyz:443/rozila969/abc12345/113
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="📺 Movies📺 ",Flik
+https://link.zozotv.xyz:443/rozila969/abc12345/114
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="📺 Movies📺 ",Sony GEM TV
+https://link.zozotv.xyz:443/rozila969/abc12345/72
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="📺 Movies📺 ",tvN
+https://link.zozotv.xyz:443/rozila969/abc12345/75
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="📺 Movies📺 ",tvN Movies
+https://link.zozotv.xyz:443/rozila969/abc12345/76
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="📺 Movies📺 ",Sony One
+https://link.zozotv.xyz:443/rozila969/abc12345/74
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="📺 Movies📺 ",IQiyi
+https://link.zozotv.xyz:443/rozila969/abc12345/63
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="📺 Movies📺 ",Celestial Movies
+https://link.zozotv.xyz:443/rozila969/abc12345/64
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="📺 Movies📺 ",CCM
+https://link.zozotv.xyz:443/rozila969/abc12345/65
+==============================================================================================================================================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",BRI LIGA 1
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298549
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 2
@@ -473,3 +533,65 @@ https://link.zozotv.xyz:443/Rina923/390023/166
 https://link.zozotv.xyz:443/Rina923/390023/338
 #EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SPORTS",Eurosport
 https://link.zozotv.xyz:443/Rina923/390023/328
+===========================================================================================================================================================================
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="💠KNOWLEDGE💠",Discovery Channel
+https://link.zozotv.xyz:443/rozila969/abc12345/124
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="💠KNOWLEDGE💠",Discovery Asia
+https://link.zozotv.xyz:443/rozila969/abc12345/125
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="💠KNOWLEDGE💠",Animal Planet
+https://link.zozotv.xyz:443/rozila969/abc12345/123
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="💠KNOWLEDGE💠",Love Nature
+https://link.zozotv.xyz:443/rozila969/abc12345/116
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="💠KNOWLEDGE💠",BBC Earth
+https://link.zozotv.xyz:443/rozila969/abc12345/117
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="💠KNOWLEDGE💠",DMAX
+https://link.zozotv.xyz:443/rozila969/abc12345/118
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="💠KNOWLEDGE💠",History
+https://link.zozotv.xyz:443/rozila969/abc12345/119
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="💠KNOWLEDGE💠",AFC
+https://link.zozotv.xyz:443/rozila969/abc12345/127
+
+============================================================================================================================================================================
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="🚀KIDS🚀",Ceria-A
+https://link.zozotv.xyz:443/rozila969/abc12345/31
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="🚀KIDS🚀",Ceria-B
+https://link.zozotv.xyz:443/rozila969/abc12345/32
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (INDO)" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="🚀KIDS🚀",Cartoon Network (INDO)
+https://link.zozotv.xyz:443/rozila969/abc12345/342
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="🚀KIDS🚀",Cartoon Network
+https://link.zozotv.xyz:443/rozila969/abc12345/132
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon (INDO)" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="🚀KIDS🚀",Nickelodeon (INDO)
+https://link.zozotv.xyz:443/rozila969/abc12345/344
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="🚀KIDS🚀",Nickelodeon
+https://link.zozotv.xyz:443/rozila969/abc12345/136
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (INDO)" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="🚀KIDS🚀",Nick Jr (INDO)
+https://link.zozotv.xyz:443/rozila969/abc12345/343
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="🚀KIDS🚀",Nick Jr
+https://link.zozotv.xyz:443/rozila969/abc12345/137
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks (INDO)" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="🚀KIDS🚀",Dreamworks (INDO)
+https://link.zozotv.xyz:443/rozila969/abc12345/350
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="🚀KIDS🚀",Dreamworks
+https://link.zozotv.xyz:443/rozila969/abc12345/134
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="🚀KIDS🚀",Boomerang
+https://link.zozotv.xyz:443/rozila969/abc12345/135
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="🚀KIDS🚀",BabyFirst
+https://link.zozotv.xyz:443/rozila969/abc12345/141
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
