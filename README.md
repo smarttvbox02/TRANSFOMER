@@ -211,7 +211,6 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Refe
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="⚽️Liga EROPA⚽️",PREMIERE LEAGUE 3
-#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 3" tvg-name="True Premier Football 3" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="Sports",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
@@ -347,72 +346,55 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 
 ==============================================================================================================================================================================
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 1
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 1
 https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 2
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 2
 https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1 http-user-agent=Android
 #EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/mobiletv/glarb.php?
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
 http://www.elahmad.com/tv/m3u8/ad_tv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 http-user-agent=Android
 #EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/mobiletv/glarb.php?
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
 http://www.elahmad.com/tv/m3u8/ad_tv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 1
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
 https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 2
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
 https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 3
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
 https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 4" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 4
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 4" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
 https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 5" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 5
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC 5" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
 https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 1
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
 https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC EXTRA 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 2
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC EXTRA 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
 https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
-#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 3
+#EXTINF:-1 group-title="🇸🇦Liga Arab🇸🇦" tvg-id="SSC EXTRA 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , Sport 1D
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="🇸🇦Liga Arab🇸🇦" , Sport 1D
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , Espn vivoHD
-http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/153012
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivo HD1
-http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18664
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivo SD
-http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/22331
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivoHD2
-http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18674
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 1
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 2
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 3
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3ea/master.m3u8
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 4
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist_b3128000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 4 multi
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/master.m3u8
+
 ========================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS", True Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -450,18 +432,19 @@ https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8|referer=https
 #EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-7.png",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|referer=https://oneplayer.online/
+
 =============================================================================================
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP-A [Live Only]
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP-A 
 https://link.zozotv.xyz:443/Rina923/390023/155
-#EXTINF:-1 tvg-id="" tvg-name="ASSP-B [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP-B [Live Only]
+#EXTINF:-1 tvg-id="" tvg-name="ASSP-B [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP-B
 https://link.zozotv.xyz:443/Rina923/390023/568
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2-A [Live Only]
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2-A 
 https://link.zozotv.xyz:443/Rina923/390023/156
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-B [Live Only]" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2-B [Live Only]
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-B [Live Only]" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2-B 
 https://link.zozotv.xyz:443/Rina923/390023/569
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3-A [Live Only]
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3-A 
 https://link.zozotv.xyz:443/Rina923/390023/157
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-B [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3-B [Live Only]
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-B [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3-B 
 https://link.zozotv.xyz:443/Rina923/390023/570
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="SPORTS",ASSP4-A
 https://link.zozotv.xyz:443/Rina923/390023/158
@@ -477,13 +460,13 @@ https://link.zozotv.xyz:443/Rina923/390023/838
 https://link.zozotv.xyz:443/Rina923/390023/839
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 5" tvg-logo="https://i.ibb.co/KFSpRmt/1684376197363.png" group-title="SPORTS",NOW SPORTS 5
 https://link.zozotv.xyz:443/Rina923/390023/840
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SPORTS",beIN Sports 1 ID
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SPORTS",beIN Sports 1 
 https://link.zozotv.xyz:443/Rina923/390023/162
-#EXTINF:-1 tvg-id="beIN Sport 2" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SPORTS",beIN Sports 2 ID
+#EXTINF:-1 tvg-id="beIN Sport 2" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SPORTS",beIN Sports 2 
 https://link.zozotv.xyz:443/Rina923/390023/163
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SPORTS",BEIN Sport 1 (MY)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SPORTS",BEIN Sport 1 
 https://link.zozotv.xyz:443/Rina923/390023/384
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 2 (My)" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SPORTS",BEIN Sport 2 (My)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 2 (My)" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SPORTS",BEIN Sport 2 
 https://link.zozotv.xyz:443/Rina923/390023/383
 #EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="SPORTS",Champions 1
 https://link.zozotv.xyz:443/Rina923/390023/164
@@ -505,11 +488,11 @@ https://link.zozotv.xyz:443/Rina923/390023/361
 https://link.zozotv.xyz:443/Rina923/390023/154
 #EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena 2
 https://link.zozotv.xyz:443/Rina923/390023/400
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS",Arena Bola (720p)
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS",Arena Bola 
 https://link.zozotv.xyz:443/Rina923/390023/791
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS",Arena Bola (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS",Arena Bola 
 https://link.zozotv.xyz:443/Rina923/390023/802
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS",Arena Bola 2 (FHD)
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS",Arena Bola 2 
 https://link.zozotv.xyz:443/Rina923/390023/792
 #EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
 https://link.zozotv.xyz:443/Rina923/390023/153
