@@ -232,7 +232,7 @@ https://link.zozotv.xyz:443/rozila969/abc12345/64
 #EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="📺 Movies📺 ",CCM
 https://link.zozotv.xyz:443/rozila969/abc12345/65
 ==============================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩 LIGA BRI🚩",BRI LIGA 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",BRI LIGA 1
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298549
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 2
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
