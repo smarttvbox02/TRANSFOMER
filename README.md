@@ -92,8 +92,8 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/408
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="📺 Movies📺 ",HBO
 https://link.zozotv.xyz:443/rozila969/abc12345/96
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="📺 Movies📺 ",HBO (ID)
-https://link.zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="📺 Movies📺 ",HBO hd
+http://103.113.116.150:25461/mtm1/12345/16
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="📺 Movies📺 ",HBO Hits
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="📺 Movies📺 ",HBO Family
