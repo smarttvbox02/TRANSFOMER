@@ -1,6 +1,5 @@
 +====================================SILAHKAN DIPAKAI JGN DI SHARE DI SOSMED=================================================
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
