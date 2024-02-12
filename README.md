@@ -88,7 +88,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 ==========================================================================================================================
-#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="⚾️VOLY⚾️",voly korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://dev.apis.sbs.co.kr/play-api/2.0/onair/channel/$id?v_type=2&platform=pcweb&protocol=hls&ssl=N&rscuse=&jwt-token=N&rnd=616
+#EXTINF:-1 tvg-id="" tvg-name="SBS Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/7ucbMa9.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Sport",SBS Sports
+http://112.187.218.162:9981/stream/channelid/15
 
