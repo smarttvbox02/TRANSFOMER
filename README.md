@@ -3273,96 +3273,27 @@ https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-referrer=https://www.visionplus.id 
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+#EXTINF:-1 group-logo="https://i.ibb.co/3089bZJ/daddy.png" group-title="SUGAR DADDY",Prima Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
+#EXTINF:-1 group-logo="https://i.ibb.co/3089bZJ/daddy.png" group-title="SUGAR DADDY",Prima Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c",
+https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC",
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3089bZJ/daddy.png" group-title="SUGAR DADDY",Prima Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175",
+https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC",
+
+#EXTINF:-1 group-logo="https://i.ibb.co/3089bZJ/daddy.png" group-title="SUGAR DADDY",Prima Sport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565",
+https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC",
   
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium91/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium92/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium93/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium94/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium95/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 6
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium96/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 7
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium97/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 8
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium98/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 9
-https://af.ayassport.ir/hls2/ssc1.m3u8",
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN TURKEY 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium62/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN TURKEY 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium63/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN TURKEY 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium64/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN TURKEY 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium67/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
-	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN FRANCE 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium116/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
-	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN FRANCE 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium117/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN FRANCE 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium118/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
 
 
 	
@@ -3400,34 +3331,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN F 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium61/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN F 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium90/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",B EIN F 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN F 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium494/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Rts)
-
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN F 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://webudit.webhd.ru/lb/premium495/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Rts)
 
 
 
