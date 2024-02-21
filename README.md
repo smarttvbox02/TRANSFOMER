@@ -3276,12 +3276,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 
   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://webudit.webhd.ru/lb/premium91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://webudit.webhd.ru/lb/premium92/index.m3u8
 
@@ -3289,13 +3289,13 @@ https://webudit.webhd.ru/lb/premium92/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://webudit.webhd.ru/lb/premium93/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="▶️SPORTS◀️",BEIN 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&user-agent=Mozilla%2F5.0%20(Cricfy)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://webudit.webhd.ru/lb/premium94/index.m3u8
 
