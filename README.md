@@ -9915,7 +9915,34 @@ https://webhdrus.onlinehdhls.ru/lb/premium360/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium726/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SUPERSPORTS 1 FHD" group-title="UK| WORLD SPORTS",UK| ASTRO SUPERSPORTS 1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1016544&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SUPERSPORTS 2" group-title="UK| WORLD SPORTS",UK| ASTRO SUPERSPORTS 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1016545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 1 HD" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918986&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 2 HD" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918985&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 3 HD" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 3 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918984&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 4 HD" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 4 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918983&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 5 HD" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 5 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918982&extension=ts
 
 
 
