@@ -615,7 +615,7 @@ http://gamsgo.cyou:8080/c4596f70/c3848d92/64712
 http://gamsgo.cyou:8080/c4596f70/c3848d92/269912
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title=" ➾ Football",DAZN 4
 http://gamsgo.cyou:8080/c4596f70/c3848d92/269911
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1x2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png" group-title="Serbia ➾ Sports",Arena Sport 1x2
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1x2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png" group-title=" ➾ Sports",Arena Sport 1x2
 http://gamsgo.cyou:8080/c4596f70/c3848d92/296564
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title=" ➾ Sports",Arena Sport 2
 http://gamsgo.cyou:8080/c4596f70/c3848d92/3462
@@ -623,7 +623,7 @@ http://gamsgo.cyou:8080/c4596f70/c3848d92/3462
 http://gamsgo.cyou:8080/c4596f70/c3848d92/3463
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title=" ➾ Sports",Arena Sport 4
 http://gamsgo.cyou:8080/c4596f70/c3848d92/3465
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="Serbia ➾ Sports",Arena Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="➾ Sports",Arena Sport 5
 http://gamsgo.cyou:8080/c4596f70/c3848d92/3464
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7023fc92e934bffc62766072ad7b0d02.png" group-title=" ➾ Sports",Arena Sport 6
 http://gamsgo.cyou:8080/c4596f70/c3848d92/36922
