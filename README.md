@@ -555,11 +555,46 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/stream/starmoviesmac.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 1
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297608
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 10" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 10
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297617
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 11" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 11
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297618
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 12" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="➾ Movie",Starzplay 12
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297619
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 13" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="➾ Movie",Starzplay 13
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297620
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 14" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="➾ Movie",Starzplay 14
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297621
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 15" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 15
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297622
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 16" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 16
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297623
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 17" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="➾ Movie",Starzplay 17
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297624
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 18" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="➾ Movie",Starzplay 18
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297625
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",StarzPlay 2
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297609
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 3
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297610
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 4
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297611
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 5
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297612
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 6
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297613
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 7
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297614
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="➾ Movie",Starzplay 8
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297615
+#EXTINF:-1 tvg-id="" tvg-name="Starzplay 9" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" ➾ Movie",Starzplay 9
+http://gamsgo.cyou:8080/c4596f70/c3848d92/297616
 
 
 
 
---
 
 
 
