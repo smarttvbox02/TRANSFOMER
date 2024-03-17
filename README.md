@@ -831,7 +831,190 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032503&exte
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032502&extension=ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4K 616" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 616
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032489&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4K 617" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 617
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032488&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 1" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032487&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 2" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032486&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 3" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032485&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 4" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032484&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 5" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032483&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 6" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032482&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 7" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032481&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 8" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 8
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032480&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 1" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032479&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 2" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032478&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 3" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032476&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 5" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 6" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032474&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 7" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### UK OPTUS SPORTS #####" group-title="UK| WORLD SPORTS",##### UK OPTUS SPORTS #####
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032472&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 1 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032471&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 2 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032470&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 3 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 3 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032469&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 4 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 4 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032468&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 5 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 5 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032467&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 6 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 6 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032466&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 7 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 7 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032465&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 8 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 8 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032464&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 9 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 9 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032463&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 10 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 10 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032462&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 11 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 11 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032461&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| OPTUS 12 HD" group-title="UK| WORLD SPORTS",UK| OPTUS 12 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032460&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### UK PEACKOCK SPORTS #####" group-title="UK| WORLD SPORTS",##### UK PEACKOCK SPORTS #####
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032459&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK NBCSPORTS" group-title="UK| WORLD SPORTS",UK| PEACOCK NBCSPORTS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032458&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK PREMIERLEAGUE" group-title="UK| WORLD SPORTS",UK| PEACOCK PREMIERLEAGUE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032457&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 1" group-title="UK| WORLD SPORTS",UK| PEACOCK 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032456&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 2" group-title="UK| WORLD SPORTS",UK| PEACOCK 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032455&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 3" group-title="UK| WORLD SPORTS",UK| PEACOCK 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032454&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 4" group-title="UK| WORLD SPORTS",UK| PEACOCK 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 5" group-title="UK| WORLD SPORTS",UK| PEACOCK 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032452&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 6" group-title="UK| WORLD SPORTS",UK| PEACOCK 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032451&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 7" group-title="UK| WORLD SPORTS",UK| PEACOCK 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 8" group-title="UK| WORLD SPORTS",UK| PEACOCK 8
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 9" group-title="UK| WORLD SPORTS",UK| PEACOCK 9
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032448&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 10" group-title="UK| WORLD SPORTS",UK| PEACOCK 10
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 11" group-title="UK| WORLD SPORTS",UK| PEACOCK 11
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 12" group-title="UK| WORLD SPORTS",UK| PEACOCK 12
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| PEACOCK 13" group-title="UK| WORLD SPORTS",UK| PEACOCK 13
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032444&extension=ts
 
 
 
