@@ -770,7 +770,66 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918983&exten
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=918982&extension=ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 01" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 01
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032516&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 02" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 02
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032515&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 03" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 03
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032514&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 04" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 04
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032513&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 05" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 05
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032512&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 06" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 06
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032511&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 07" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 07
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032510&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 08" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 08
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032509&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 09" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 09
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032508&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 10" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 10
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032507&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 11" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 11
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032506&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 12" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 12
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032505&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 13" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 13
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032504&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 14" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 14
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032503&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIDIO LIVE EVENTS | 15" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 15
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1032502&extension=ts
 
 
 
