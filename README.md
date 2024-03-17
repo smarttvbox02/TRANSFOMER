@@ -700,7 +700,46 @@ http://gamsgo.cyou:8080/c4596f70/c3848d92/287792
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 1 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238265&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 2 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238264&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 3 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238266&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 4 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 4 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238267&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 5 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 5 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238268&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 6 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 6 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238269&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 7 HD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 7 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=238270&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 1 EN SD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 EN SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=735946&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 2 EN SD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 EN SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=735945&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEIN SPORTS 3 EN SD" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 EN SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=735944&extension=ts
 
 
 
