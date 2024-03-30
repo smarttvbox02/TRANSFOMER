@@ -16,6 +16,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#EXTINF:0 CUID="4" tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://i-meatballs.bunkr.ru/rcti-MpHL52Us.png?download=true" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/630
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,9 +37,13 @@ https://1a-inews.rctiplus.id/inews-sdi.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/623
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -227,6 +237,98 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/94dfdc818b124449bfcce06c2e6dde8d/manifest_L1.mpd
+
+=======================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/d7/c9/oMB8SAGF_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/bc/cf/yAHGQZOg_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/ae/e2/iW6LtxlZ_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/29/19/WH3SJzTK_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/c3/fb/uBLd9oSC_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f95b305610c54ef0a2aae0647456c477:ad60099095daeb7d1181edb22c4af590
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/e3/54/H3kT7LIq_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7659939fbb44194acb82baff73af8fc:f165f4f2e81772c8faf7f95df0fbfef0
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/22/29/RY1qcbX5_o.jpg", tvg-id="" group-title="Optus Sport - VPN Australia🇦🇺", Optus Sport 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c74521542a2455a9f60157f114bab4d:caecb6108d7a2efd26e76feb635730db
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
+
+======================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL", SONY SPORTS 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL", SONY SPORTS 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL", SONY SPORTS 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL", SONY SPORTS 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , DAZN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Bein-sport-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Bein-sport-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Eleven 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+
 
 
 
